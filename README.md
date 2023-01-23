@@ -10,6 +10,7 @@ The major modules used in the project are
 * geopy (geopy.geocoder)
 * geopandas
 * reverse_geocoder
+
 This project contains data visualization of the Meteorite Landing dataset provided by NASA. The Visualization as based on different aspects such as multiple classification/categories like observed or not observed. 
 Year wise analysis and throught many past decades.
 Based on geolocation and using ISO2 country codes. Grouped data analysis is done according to continents.
